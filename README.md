@@ -10,3 +10,5 @@ Heres CV 2.0 - 2.2
 https://www.mediafire.com/file/3jiuv3aeg4tk64e/Sebss_Sw_CV_2.4_Fixed.zip/file
 
 # This is the end of Sebs SW CV Fixed for now
+# Update
+The past developer leave this project in 2023. But we have good news for this project. Freesoft will takeover this project and will start on developing soon.
