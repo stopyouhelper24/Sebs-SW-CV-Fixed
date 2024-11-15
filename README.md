@@ -1,14 +1,5 @@
 # Sebs-SW-CV-Fixed
-i fixed Sebs SW CV with only dnspy
-# V1
-https://www.mediafire.com/file/c02gi27nnhweds9/Sebs-SW-CV-fixed.zip/file
-V1 here only Sebs SW CV 2.2 is fixed.
-# V2
-https://www.mediafire.com/file/vef2erqjiz6ghgl/Sebs-SW-CV-fixed.zip/file
-Heres CV 2.0 - 2.2
-# V3 Is here with only CV 2.4 Fixed
-https://www.mediafire.com/file/3jiuv3aeg4tk64e/Sebss_Sw_CV_2.4_Fixed.zip/file
+This project fixes bugs and errors in Sebs SW CV and this project uses the tool called dnspy to hack into the code.
 
-# This is the end of Sebs SW CV Fixed for now
 # Update
 The past developer leave this project in 2023. But we have good news for this project. Freesoft will takeover this project and will start on developing soon.
